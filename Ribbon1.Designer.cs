@@ -58,7 +58,7 @@
             // btnManyToOne
             // 
             this.btnManyToOne.ControlSize = Microsoft.Office.Core.RibbonControlSize.RibbonControlSizeLarge;
-            this.btnManyToOne.Label = "Start";
+            this.btnManyToOne.Label = "Many To One";
             this.btnManyToOne.Name = "btnManyToOne";
             this.btnManyToOne.OfficeImageId = "MailMergeStartEmail";
             this.btnManyToOne.ShowImage = true;
